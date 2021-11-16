@@ -1,0 +1,9 @@
+# VS Code configuration
+.vscode/
+
+# Build output
+bin/
+obj/
+
+# App settings
+appsettings.json
